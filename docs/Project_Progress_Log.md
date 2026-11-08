@@ -3,7 +3,7 @@
 
 **Project ID:** SSA-001
 **Document ID:** SSA-DOC-003
-**Version:** 1.1
+**Version:** 1.2
 **Status:** Active
 
 ## 1. Purpose
@@ -25,6 +25,7 @@ blockers and outstanding work.
 | MS-008 | Data Engineering | Not Started |
 | MS-009 | Analytics and NLP | Not Started |
 | MS-010 | BI and Publication | Not Started |
+| MS-011 | Development Schedule and Readiness Review | Completed |
 
 ## 3. Activity Log
 
@@ -39,13 +40,13 @@ blockers and outstanding work.
 | 2026-11-08 | A5.10 | Created and validated preliminary research methodology documentation | Completed | Four files in docs/02_Research_Methodology |
 | 2026-11-08 | A5.11 | Created and validated proposed technical architecture documentation | Completed | Four files in docs/04_Technical_Architecture |
 | 2026-11-08 | A5.12 | Reviewed project structure and existing Git ignore rules | Completed | Directory listing and Git status |
+| 2026-11-08 | A6 | Created and validated the approved ten-week development schedule | Completed | docs/01_Project_Management/Development_Schedule.md |
+| 2026-11-08 | A7 | Completed project readiness assessment and authorised progression to Section B | Completed | docs/01_Project_Management/Project_Readiness_Review.md |
 
 ## 4. Outstanding Tasks
 
-- Complete A5 project tracking updates and Git checkpoint.
-- Complete A6 development schedule.
-- Complete A7 project readiness review.
-- Obtain approval of Section B research design.
+- Review and commit the A6/A7 planning documentation and updated progress log.
+- Finalise and obtain approval of Section B research design.
 - Finalise data source selection and acquisition rules.
 - Finalise technical implementation decisions.
 - Begin implementation only after the relevant design approvals.
